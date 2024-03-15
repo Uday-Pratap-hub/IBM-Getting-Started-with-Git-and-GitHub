@@ -1,0 +1,21 @@
+1) https://github.com/marknovanta/github-final-project
+
+2) Yes, the file is present.
+
+3) Yes, the file is present.
+
+4) Yes, the file is present.
+
+5) Yes, the file is present.
+
+6) Yes, the file is present.
+
+7) https://github.com/marknovanta/jbbmo-Introduction-to-Git-and-GitHub
+
+8) attach image here ( Provided )
+   Title :- GIT merging progress
+   Description :- This image shows all the code I had written for their merging.
+
+9) https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/27864
+
+10) https://github.com/marknovanta/jbbmo-Introduction-to-Git-and-GitHub/branches
